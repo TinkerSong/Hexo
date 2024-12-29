@@ -1,10 +1,10 @@
 ---
 title:  BufferedWriter字符输出缓冲流实战
 date: 2021/09/22 22:22:00
+tags:
+  - Tag
 categories:
-- [Java]
-valine:
-  placeholder: "本文档为学习笔记，祝食用愉快💪"
+  - Java
 ---
 
 # BufferedWriter

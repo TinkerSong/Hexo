@@ -2,10 +2,10 @@
 title: 微服务 集成Open-Feign实现远程方法调用
 date: 2021/10/05 15:16:56
 update: 2021/10/05
+tags:
+  - Tag
 categories:
 - [AlibabaCloud]
-valine:
-  placeholder: "学习笔记，祝食用愉快💪"
 ---
 
 # Feign让方法调用更加解耦

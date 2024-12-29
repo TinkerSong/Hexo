@@ -1,10 +1,10 @@
 ---
 title: Java集合⼯具类Collections讲解上集
 date: 2021/09/14 20:14:00
+tags:
+  - Tag
 categories:
-- [Java]
-valine:
-  placeholder: "本文档为学习笔记，祝食用愉快💪"
+  - Java
 ---
 
 # Collections⼯具类

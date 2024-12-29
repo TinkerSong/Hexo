@@ -1,10 +1,10 @@
 ---
 title: static静态代码块和静态⽅法
 date: 2021/09/3 21:24:00
+tags:
+  - Tag
 categories:
-- [Java]
-valine:
-  placeholder: "本文档为学习笔记，祝食用愉快💪"
+  - Java
 ---
 
 # static关键字

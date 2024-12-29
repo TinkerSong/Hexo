@@ -2,10 +2,10 @@
 title: 新一代微服务架构AlibabaCloud全家桶介绍
 date: 2021/10/04 12:13:48
 update: 2021/11/04
+tags:
+  - Tag
 categories:
-- [AlibabaCloud]
-valine:
-  placeholder: "学习笔记，祝食用愉快💪"
+- AlibabaCloud
 ---
 
 # 官网介绍

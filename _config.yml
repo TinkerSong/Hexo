@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Tinker's Blog
-subtitle: 
-description: Tinker
-keywords: Java,Spring Cloud,ArchLinux # edit for Theme.shoka
-author: Tinker
-language: zh-CN # 这里只可以选 zh-CN、zh-HK、zh-TW、ja、en 这几个格式
-timezone: 'Asia/Shanghai'
+title: Hexo
+subtitle: ''
+description: ''
+keywords:
+author: John Doe
+language: en
+timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog.spylovetinker.cn
-permalink: :year/:month/:day/:title/
+url: http://example.com
+permalink: /post/:title.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -43,7 +43,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
-syntax_highlighter:
+syntax_highlighter: highlight.js
 highlight:
   line_number: true
   auto_detect: false
@@ -51,7 +51,6 @@ highlight:
   wrap: true
   hljs: false
 prismjs:
-  enable: false
   preprocess: true
   line_number: true
   tab_replace: ''
@@ -97,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: kratos-rebirth
+theme: aurora
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

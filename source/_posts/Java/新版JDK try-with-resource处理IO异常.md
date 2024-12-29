@@ -1,10 +1,10 @@
 ---
 title:   新版JDK try-with-resource处理IO异常
 date: 2021/09/25 21:12:00
+tags:
+  - Tag
 categories:
-- [Java]
-valine:
-  placeholder: "本文档为学习笔记，祝食用愉快💪"
+  - Java
 ---
 
 # 变化点

@@ -1,9 +1,9 @@
 ---
 title: ArchLinux i3wm配置美化[桌面篇]
-categories: ArchLinux
 tags:
-- ArchLinux
-toc: true
+  - Tag
+categories: 
+  - ArchLinux
 --- 
 # 纯属个人喜好
 在试过众多桌面环境和窗口管理器之后，我选择了i3WM。

@@ -1,10 +1,10 @@
 ---
 title: java系统类之System类讲解
 date: 2021/09/30 20:32:00
+tags:
+  - Tag
 categories:
-- [Java]
-valine:
-  placeholder: "本文档为学习笔记，祝食用愉快💪"
+  - Java
 ---
 
 # 什么是System类

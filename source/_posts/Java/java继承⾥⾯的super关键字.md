@@ -1,10 +1,10 @@
 ---
 title: java继承⾥⾯的super关键字
 date: 2021/09/4 21:24:00
+tags:
+  - Tag
 categories:
-- [Java]
-valine:
-  placeholder: "本文档为学习笔记，祝食用愉快💪"
+  - Java
 ---
 
 # super关键字

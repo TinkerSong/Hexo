@@ -1,10 +1,10 @@
 ---
 title:  Java进阶核⼼之集合框架Map介绍上集
 date: 2021/09/9 22:54:00
+tags:
+  - Tag
 categories:
-- [Java]
-valine:
-  placeholder: "本文档为学习笔记，祝食用愉快💪"
+  - Java
 ---
 # 常⻅Map API语法
 ```java

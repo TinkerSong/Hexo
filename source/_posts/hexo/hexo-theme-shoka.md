@@ -1,9 +1,9 @@
 ---
 title: Hexo主题安装与设置
-categories: Hexo
 tags:
-- Hexo
-toc: true
+  - Tag
+categories: 
+  - Hexo
 ---
 
 # 主题安装

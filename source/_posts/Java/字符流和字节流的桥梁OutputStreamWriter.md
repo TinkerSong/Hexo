@@ -1,10 +1,10 @@
 ---
 title:  字符流和字节流的桥梁OutputStreamWriter
 date: 2021/09/24 21:34:00
+tags:
+  - Tag
 categories:
-- [Java]
-valine:
-  placeholder: "本文档为学习笔记，祝食用愉快💪"
+  - Java
 ---
 
 # OutputStreamWriter(继承writer)

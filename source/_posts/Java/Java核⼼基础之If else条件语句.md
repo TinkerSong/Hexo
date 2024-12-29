@@ -1,10 +1,10 @@
 ---
 title: Java核⼼基础之If else条件语句
 date: 2021/09/2 20:24:00
+tags:
+  - Tag
 categories:
-- [Java]
-valine:
-  placeholder: "本文档为学习笔记，祝食用愉快💪"
+  - Java
 ---
 
 # if 语句的使⽤

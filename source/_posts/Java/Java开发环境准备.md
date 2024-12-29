@@ -1,10 +1,10 @@
 ---
 title: Java开发环境准备 
 date: 2021/08/17 20:34:00
+tags:
+  - Tag
 categories:
-- [Java]
-valine:
-  placeholder: "本文档为学习笔记，祝食用愉快💪"
+  - Java
 ---
 
 # 下载Java JDK

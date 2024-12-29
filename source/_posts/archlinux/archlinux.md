@@ -2,13 +2,10 @@
 title: 系统选择
 date: 2021/08/13 20:45:48
 update: 2021/09/27
-sticky: true
-categories: ArchLinux
 tags:
-- ArchLinux
-toc: true
-valine:
-  placeholder: "1. 提问前请先仔细阅读本文档⚡\n2. 其他任何报错💣，请提供详细描述和截图📸，祝食用愉快💪"
+  - Tag
+categories: 
+  - ArchLinux
 ---
 
 # 选择背景

@@ -1,10 +1,10 @@
 ---
 title: Java⾯向对象编程之InstanceOf关键词和多态
 date: 2021/09/5 23:24:00
+tags:
+  - Tag
 categories:
-- [Java]
-valine:
-  placeholder: "本文档为学习笔记，祝食用愉快💪"
+  - Java
 ---
 
 # InstanceOf 关键词

@@ -2,10 +2,10 @@
 title: AlibabaCloud注册中心Nacos实战
 date: 2021/10/05 14:16:56
 update: 2021/10/05
+tags:
+  - Tag
 categories:
-- [AlibabaCloud]
-valine:
-  placeholder: "学习笔记，祝食用愉快💪"
+- AlibabaCloud
 ---
 
 # 注册中心Nacos介绍

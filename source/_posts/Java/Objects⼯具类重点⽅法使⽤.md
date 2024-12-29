@@ -1,10 +1,10 @@
 ---
 title: Objects⼯具类重点⽅法使⽤
 date: 2021/09/18 21:14:00
+tags:
+  - Tag
 categories:
-- [Java]
-valine:
-  placeholder: "本文档为学习笔记，祝食用愉快💪"
+  - Java
 ---
 
 # Objects⼯具类讲解

@@ -1,10 +1,10 @@
 ---
 title: Java核⼼包 java.io包介绍
 date: 2021/09/20 21:22:00
+tags:
+  - Tag
 categories:
-- [Java]
-valine:
-  placeholder: "本文档为学习笔记，祝食用愉快💪"
+  - Java
 ---
 
 # IO: Input / Ouput 即输⼊输出

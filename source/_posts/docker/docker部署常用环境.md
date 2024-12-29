@@ -1,9 +1,9 @@
 ---
 title: docker部署常用环境
-categories: docker
 tags:
-- Docker
-toc: true
+  - Tag
+categories: 
+  - docker
 ---
 
 # docker安装Redis服务

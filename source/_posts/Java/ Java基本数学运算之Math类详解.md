@@ -1,10 +1,10 @@
 ---
 title: Java基本数学运算之Math类详解
 date: 2021/09/29 21:12:00
+tags:
+  - Tag
 categories:
-- [Java]
-valine:
-  placeholder: "本文档为学习笔记，祝食用愉快💪"
+  - Java
 ---
 
 # 什么是Math类

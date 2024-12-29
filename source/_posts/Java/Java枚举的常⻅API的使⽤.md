@@ -1,10 +1,10 @@
 ---
 title: Java枚举的常⻅API的使⽤
 date: 2021/10/01 13:23:00
+tags:
+  - Tag
 categories:
-- [Java]
-valine:
-  placeholder: "本文档为学习笔记，祝食用愉快💪"
+  - Java
 ---
 
 # 常⻅API的使⽤

@@ -2,10 +2,10 @@
 title: Java简介
 date: 2021/08/14 21:13:48
 update: 2021/09/29
+tags:
+  - Tag
 categories:
-- [Java]
-valine:
-  placeholder: "本文档为学习笔记，祝食用愉快💪"
+  - Java
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 title: 对象的HashCode和equals⽅法使⽤
 date: 2021/09/18 22:14:00
+tags:
+  - Tag
 categories:
-- [Java]
-valine:
-  placeholder: "本文档为学习笔记，祝食用愉快💪"
+  - Java
 ---
 
 # HashCode⽅法
